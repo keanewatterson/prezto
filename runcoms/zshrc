@@ -8,4 +8,4 @@ fi
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 # Customizations (config-home)
-[[ -f ~/.zprojrc ]] && source ~/.zprojrc
+[[ -f ~/.projrc ]] && source ~/.projrc
